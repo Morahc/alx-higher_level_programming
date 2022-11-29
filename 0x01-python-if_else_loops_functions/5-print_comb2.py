@@ -4,4 +4,3 @@ for i in range(100):
         print("{}".format(i))
     else:
         print("{},".format(str(i).zfill(2)), end=" ")
-
